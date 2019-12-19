@@ -1,5 +1,0 @@
-1) In this work, we discuss a variant of prize collecting travelling salesman’s problem considering the sets of salesmans, facilities and customers. Each facility can 	   cover the customers that are within an exogenously defined distance known as coverage distance. Also, there is a limit on maximum distance travelled by each 	   salesman while visiting the facilities. Further, a facility can be visited by at the most one salesman. Given this problem setting, the objective is to 	   maximize the total number of customers covered by constructing Hamiltonian cycles of m salesmans over a subset of facilities.
-
-2) I have developed an Ant Coloney metaheutstic model to solve the above mentioned problem. 
-
-3) Metaheuristic models are used for solving large instance problems which are beyond the capacity of state of the art solvers like GUROBI. It provides a good solution    within few seconds which otherwise would have taken several hours to solve by the world's fastest solver GUROBI. 
